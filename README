@@ -1,0 +1,13 @@
+Assignment 3 - Nested SQL
+
+Our source code is in the src directory, and the data is in the data directory.
+The order to run the files is
+\i assign3_drop.sql
+\i assign3_create.sql
+\i assign3_copy.sql
+\i assign3_select.sql
+
+Our correlated queries were questions 4 and 8. 
+
+Andrew McDaniels
+April Crawford
